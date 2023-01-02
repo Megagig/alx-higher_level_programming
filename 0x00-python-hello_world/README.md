@@ -36,12 +36,14 @@ Contents
 
 [lists.h :](https://github.com/Megagig/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h) contains the header file used in 10-check_cycle.c
 
-Resources
+## Resources
 
-Python documentation
+[Python documentation](https://alx-intranet.hbtn.io/rltoken/JsFCs_NBzMAR7-XPAZ9BoA)
 
-Youtube series
+[Youtube series](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 
-Pycodestyle guide
+[Pycodestyle guide](https://alx-intranet.hbtn.io/rltoken/tgYt-0zVy1T4sDlE9ohxnA)
 
-Understanding The Zen of Python
+[Understanding Python Programming. The Zen of Python](https://alx-intranet.hbtn.io/concepts/550)
+
+[Using python interpreter](https://alx-intranet.hbtn.io/rltoken/RVpfAuagCo9SdfYeoHd6jg)
